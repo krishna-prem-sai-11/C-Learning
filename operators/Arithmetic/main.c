@@ -1,3 +1,5 @@
+/*ARITHMETIC OPERATORS*/
+
 #include <stdio.h>
 
  int main(){
