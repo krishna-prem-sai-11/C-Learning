@@ -1,3 +1,5 @@
+//Mixed examples of statements
+
 #include<stdio.h>
 
 int main(){
