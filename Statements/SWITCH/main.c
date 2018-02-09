@@ -10,7 +10,7 @@ int main(){
     switch(ch){
         case 1:printf("\nyour choice is %d",ch);
         break;
-        case 2:printf("\nnyour choice is %d",ch);
+        case 2:printf("\nyour choice is %d",ch);
         break;
         case 3:printf("\nyour choice is %d",ch);
         break;
