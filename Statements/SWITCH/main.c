@@ -1,4 +1,4 @@
-//used to excute the code for multiple  conditions
+//Switch to 1 option under multiple options
 
 
 #include<stdio.h>
